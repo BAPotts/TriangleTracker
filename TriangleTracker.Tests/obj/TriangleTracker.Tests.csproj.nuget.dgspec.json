@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\TriangleTracker.Tests\\TriangleTracker.Tests.csproj": {}
+    "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\triangleTracker.Tests\\TriangleTracker.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\TriangleTracker.Tests\\TriangleTracker.Tests.csproj": {
+    "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\triangleTracker.Tests\\TriangleTracker.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\TriangleTracker.Tests\\TriangleTracker.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\triangleTracker.Tests\\TriangleTracker.Tests.csproj",
         "projectName": "TriangleTracker.Tests",
-        "projectPath": "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\TriangleTracker.Tests\\TriangleTracker.Tests.csproj",
+        "projectPath": "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\triangleTracker.Tests\\TriangleTracker.Tests.csproj",
         "packagesPath": "C:\\Users\\potts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\TriangleTracker.Tests\\obj\\",
+        "outputPath": "C:\\Users\\potts\\desktop\\csharp\\TriangleTracker.Solution\\triangleTracker.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
