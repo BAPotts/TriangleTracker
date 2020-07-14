@@ -24,5 +24,12 @@ namespace TriangleTracker.Tests
       Triangle testTriangle = new Triangle();
       Assert.AreEqual(true, testTriangle.IsScalene(2,3,4));
     }
+
+    [TestMethod]
+    public void IsNotTriangle_SidesNotAdding_True()
+    {
+      Triangle testTriangle = new Triangle();
+      Assert.AreEqual(true, testTriangle.IsNotTriangle(2,3,12));
+    }
   }
 }
