@@ -1,9 +1,12 @@
 using System;
 
-class Program
+namespace TriangleTracker
 {
-  static void Main()
+  class Program
   {
-    // program code goes here
+    static void Main()
+    {
+      // program code goes here
+    }
   }
 }
